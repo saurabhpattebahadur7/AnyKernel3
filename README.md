@@ -11,19 +11,18 @@ _A script based on Galaxy Nexus (tuna) is included for reference. Everything to 
 
 ## // Properties / Variables ##
 ```
-kernel.string=KernelName by YourName @ xda-developers
+kernel.string=Rolex by Rolex @ xda-developers
 do.devicecheck=1
-do.modules=1
+do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-supported.versions=6.0 - 7.1.2
-supported.patchlevels=2019-07 -
-supported.vendorpatchlevels=2013-07
+device.name1=pissarro
+device.name2=pissarroin
+device.name3=pissarropro
+device.name4=pissarroinpro 
+supported.versions=
+supported.patchlevels=
 
 BLOCK=/dev/block/platform/omap/omap_hsmmc.0/by-name/boot;
 IS_SLOT_DEVICE=0;
