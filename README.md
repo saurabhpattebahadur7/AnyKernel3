@@ -11,7 +11,7 @@ _A script based on Galaxy Nexus (tuna) is included for reference. Everything to 
 
 ## // Properties / Variables ##
 ```
-kernel.string=Rolex by Rolex @ xda-developers
+kernel.string=Rolex by Rolex040623 @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
